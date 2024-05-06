@@ -27,11 +27,11 @@
 }
 
 .block_p{
-	nargin-top: 70px;
-	flex-direction: row;
+	margin-top: 70px;
+    flex-direction: row;
     justify-content: space-evenly;
     display: inline-flex;
-	width: 1000px;
+    width: 1440px;
 }
 .photo{
 	position: relative;
