@@ -27,15 +27,18 @@
 }
 
 .block_p{
+	nargin-top: 70px;
 	flex-direction: row;
     justify-content: space-evenly;
     display: inline-flex;
 	width: 1000px;
 }
 .photo{
+	position: relative;
 	width: 300px;
 	height: 300px;
 	border-radius: 50px;
+	margin: auto;
 }
 
 .text{
