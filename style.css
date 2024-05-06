@@ -26,12 +26,6 @@
     border-radius: 50px;
 }
 
-.block_p{
-	margin-top: 70px;
-    flex-direction: row;
-    justify-content: space-evenly;
-    display: inline-flex;
-    width: 1440px;
 }
 .photo{
     position: absolute;
