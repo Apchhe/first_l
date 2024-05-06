@@ -26,6 +26,18 @@
     border-radius: 50px;
 }
 
+.block_p{
+	flex-direction: row;
+    justify-content: space-evenly;
+    display: inline-flex;
+	width: 1000px;
+}
+.photo{
+	width: 300px;
+	height: 300px;
+	border-radius: 50px;
+}
+
 .text{
     padding: auto;
     display: flex;
