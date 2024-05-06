@@ -26,16 +26,6 @@
     border-radius: 50px;
 }
 
-}
-.photo{
-    position: absolute;
-    display: flex;
-	width: 300px;
-	height: 300px;
-	border-radius: 50px;
-	margin: auto;
-}
-
 .text{
     padding: auto;
     display: flex;
